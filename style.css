@@ -4,13 +4,19 @@
    ============================================ */
 
 :root {
-  --primary: #1e3a5f;        /* Soft deep navy */
-  --primary-light: #2c5282;  /* Lighter navy */
-  --accent: #3b82a0;         /* Muted teal-blue */
-  --bg: #f8fafc;             /* Very light cool gray */
+  --primary: #1e3a5f;
+  /* Soft deep navy */
+  --primary-light: #2c5282;
+  /* Lighter navy */
+  --accent: #3b82a0;
+  /* Muted teal-blue */
+  --bg: #f8fafc;
+  /* Very light cool gray */
   --bg-card: #ffffff;
-  --text: #1e293b;           /* Soft dark slate */
-  --text-muted: #64748b;     /* Muted gray */
+  --text: #1e293b;
+  /* Soft dark slate */
+  --text-muted: #64748b;
+  /* Muted gray */
   --border: #e2e8f0;
   --shadow: 0 4px 20px rgba(30, 58, 95, 0.08);
   --radius: 12px;
