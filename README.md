@@ -3,7 +3,7 @@
 Professional portfolio of **Joel Shundu Omukonyi**  
 Electrical & Electronics Engineering Diploma Student | Industrial Electrical Technician | Web Developer
 
-🌐 **Live Website:** [https://joel-shundu45.github.io/joel-shundu-portfolio](https://joel-shundu45.github.io/joel-shundu-portfolio)  
+🌐 **Live Website:** [https://joel-shundu45.github.io/joel-shundu-portfolio](https://github.com/Joel-shiundu45/Joel-portfolio.git)  
 
 
 ---
